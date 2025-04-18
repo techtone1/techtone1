@@ -1,0 +1,47 @@
+# TechTone Electronics Store
+
+Welcome to **TechTone**, where sleek design meets high-performance tech.  
+This is a black-and-white themed online store made for selling electronics like phones, laptops, and more.
+
+## What’s Inside
+
+- **Modern Design** – Clean black & white UI for a bold, premium feel
+- **Product Catalog** – Phones, laptops, and more (easy to expand)
+- **Cart System** – Add items and view them on the cart page
+- **Fully Frontend** – Built using HTML, CSS, and JavaScript
+- **Free Hosting** – Deployed with GitHub Pages
+
+## Pages Breakdown
+
+- **Home** – Intro to your brand
+- **Shop** – Browse and buy
+- **Cart** – See what’s in your bag and total it up
+
+## Live Demo
+
+[**Click here to visit the store**](https://yourusername.github.io/techtone-store)
+
+*(Replace with your actual link once deployed)*
+
+## How to Run
+
+1. Clone or download the repo
+2. Open `index.html` in your browser
+3. Browse, shop, and add items to your cart
+4. View your total in `cart.html`
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (localStorage for cart)
+- GitHub Pages
+
+## License
+
+This project is free to use and build on.  
+Feel free to customize it, remix it, or level it up however you like.
+
+---
+
+**Made with hustle by [Your Name]**
